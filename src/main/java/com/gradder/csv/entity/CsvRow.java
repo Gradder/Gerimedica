@@ -1,4 +1,4 @@
-package com.gradder.gerimedica.entity;
+package com.gradder.csv.entity;
 
 import java.util.List;
 

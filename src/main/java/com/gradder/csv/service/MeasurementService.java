@@ -1,7 +1,7 @@
-package com.gradder.gerimedica.service;
+package com.gradder.csv.service;
 
-import com.gradder.gerimedica.entity.Measurement;
-import com.gradder.gerimedica.repository.MeasurementRepository;
+import com.gradder.csv.entity.Measurement;
+import com.gradder.csv.repository.MeasurementRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.core.io.ByteArrayResource;
 import org.springframework.stereotype.Service;

@@ -1,7 +1,7 @@
-package com.gradder.gerimedica.service;
+package com.gradder.csv.service;
 
-import com.gradder.gerimedica.entity.CsvRow;
-import com.gradder.gerimedica.exception.CsvGenerationException;
+import com.gradder.csv.entity.CsvRow;
+import com.gradder.csv.exception.CsvGenerationException;
 import lombok.experimental.UtilityClass;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVPrinter;

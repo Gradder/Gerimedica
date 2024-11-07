@@ -1,6 +1,6 @@
-package com.gradder.gerimedica.controller;
+package com.gradder.csv.controller;
 
-import com.gradder.gerimedica.service.MeasurementService;
+import com.gradder.csv.service.MeasurementService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.core.io.ByteArrayResource;
 import org.springframework.core.io.Resource;

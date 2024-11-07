@@ -1,4 +1,4 @@
-package com.gradder.gerimedica.exception;
+package com.gradder.csv.exception;
 
 public class InvalidFIleFormatException extends RuntimeException {
 

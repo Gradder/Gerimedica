@@ -1,8 +1,8 @@
-package com.gradder.gerimedica.service;
+package com.gradder.csv.service;
 
-import com.gradder.gerimedica.entity.Measurement;
-import com.gradder.gerimedica.exception.InvalidFIleFormatException;
-import com.gradder.gerimedica.exception.InvalidFIleHeaderException;
+import com.gradder.csv.entity.Measurement;
+import com.gradder.csv.exception.InvalidFIleFormatException;
+import com.gradder.csv.exception.InvalidFIleHeaderException;
 import lombok.AllArgsConstructor;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;

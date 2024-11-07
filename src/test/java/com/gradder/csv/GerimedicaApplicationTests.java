@@ -1,4 +1,4 @@
-package com.gradder.gerimedica;
+package com.gradder.csv;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
